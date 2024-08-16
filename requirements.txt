@@ -19,3 +19,4 @@ fastapi
 streamlit
 langchain_groq
 langchain-chroma
+langchain_openai
