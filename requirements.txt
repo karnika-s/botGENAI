@@ -19,4 +19,5 @@ fastapi
 streamlit
 langchain_groq
 langchain-chroma
-langchain_openai
+langchain_openai==0.1.21
+
